@@ -1,16 +1,33 @@
-### Hi there 👋
+```js
+let set = require("./set.js");
 
-<!--
-**zelferry/zelferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+set("zelferry", {
+   furry: true,
+   have_dreams: true,
+   programming_where: "mobile",
+   favorite_languages: [
+      "javascript",
+      "ejs"
+   ],
+});
+```
+hello, my name is zelferry, but you can call me zelf.
 
-Here are some ideas to get you started:
+I'm a Front-end javascript developer from Brazil, 17 years old and 3 years of coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**book lover, student, kinda bad at video games and fan of zelda and pokémon**
+
+#### my main project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zelferry&repo=karinaTwo_bot&theme=jolly)](https://github.com/zelferry/karinaTwo_bot)
+
+#### languages and tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/ejs.png"></code>
+
+#### status
+![zelferry's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelferry&show_icons=true&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelferry&hide_progress=true&theme=jolly)
