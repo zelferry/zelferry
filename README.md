@@ -4,7 +4,10 @@ let set = require("./set.js");
 set("zelferry", {
    furry: true,
    have_dreams: true,
-   programming_where: "mobile",
+   programming_where: [
+      "mobile",
+      "pc (linux)"
+   ],
    favorite_languages: [
       "javascript",
       "ejs"
