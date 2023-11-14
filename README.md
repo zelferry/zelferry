@@ -6,7 +6,7 @@ set("zelferry", {
    have_dreams: true,
    programming_where: [
       "mobile",
-      "pc (linux)"
+      "pc (linux, windows)"
    ],
    favorite_languages: [
       "javascript",
