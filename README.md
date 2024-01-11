@@ -5,11 +5,12 @@ set("zelferry", {
    furry: true,
    have_dreams: true,
    programming_where: [
-      "mobile",
-      "pc (linux, windows)"
+      { pc: "windows", type: "main system" },
+      { pc: "linux", type: "test/development environment" }
    ],
    favorite_languages: [
       "javascript",
+      "GDscript",
       "ejs"
    ],
 });
