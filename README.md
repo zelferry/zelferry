@@ -11,8 +11,13 @@ set("zelferry", {
    favorite_languages: [
       "javascript",
       "GDscript",
-      "ejs"
+      "ejs",
    ],
+   studying: [
+      "c++",
+      "c",
+      "java"
+   ]
 });
 ```
 hello, my name is zelferry, but you can call me zelf.
@@ -35,6 +40,5 @@ I'm a Front-end javascript developer from Brazil, 17 years old and 3 years of co
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 #### status
-![zelferry's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelferry&show_icons=true&theme=jolly)
-
+![zelferry's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelferry&show_icons=true&theme=jolly) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelferry&hide_progress=true&theme=jolly)
