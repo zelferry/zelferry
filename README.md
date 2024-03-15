@@ -14,8 +14,6 @@ set("zelferry", {
       "ejs",
    ],
    studying: [
-      "c++",
-      "c",
       "java"
    ]
 });
