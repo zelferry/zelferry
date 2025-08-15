@@ -7,40 +7,24 @@ set("zelferry", {
    furry: true,
    have_dreams: true,
    programming_where: [
-      { pc: "windows", type: "main system" },
-      { pc: "linux", type: "test/development environment" }
+      { pc: "linux", type: "main system" }
    ],
    favorite_languages: [
       "javascript",
       "GDscript",
       "python",
       "ejs",
-   ],
-   note: "the style of this Readmer.md looks best using the dark theme ;)"
+   ]
 });
 ```
 my name is zelferry, but you can call me zelf.
 
-I'm a Full-stack javascript developer from Brazil, 18`(17/02/2006)` years old and 4 years of coding.
+I'm a Full-stack javascript developer from Brazil, 19`(17/02/2006)` years old.
 
-Currently no active projects **`(´。＿。｀)`**
+currently no active projects **`(´。＿。｀)`**
 
-> - **book lover, student, kinda bad at video games and fan of terraria and pokémon**
+> - **book lover, student, kinda bad at video games**
 > - ***Graphic Design*** is my passion **(oﾟvﾟ)ノ ✨💫✨💫**
-
-### my projects:
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=zelferry&repo=karinaTwo_bot&show_icons=true&theme=transparent&hide_border=false&title_color=ffffff&text_color=adadad&icon_color=c880dd"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=zelferry&repo=karinaTwo_bot&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zelferry&repo=karinaTwo_bot&show_icons=true" src="https://github.com/zelferry/karinaTwo_bot"/>
-</picture>
 
 ### github status
 
